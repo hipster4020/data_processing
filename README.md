@@ -1,5 +1,5 @@
 # 💻 Data Processing
 
-### Jupyter Notebook Skill 모음
+### Pandas Dataframe, Numpy Skill 모음
 <br>
 <br>
